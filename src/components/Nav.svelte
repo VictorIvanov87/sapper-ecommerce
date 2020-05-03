@@ -53,7 +53,7 @@
 
 <header class="sticky bg-white py-4 lg:py-0">
   <nav class="flex items-center justify-between mx-4 text-gray-700">
-    <a href="/" rel="prefetch" aria-label="logo" class="mx-4">
+    <!-- <a href="/" rel="prefetch" aria-label="logo" class="mx-4">
       <img src={'/favicon.png'} alt="logo" style="width:100%;" />
     </a>
     <div class="flex justify-center w-full px-2 border-gray-300">
@@ -78,7 +78,7 @@
         text-center">
         <div class="number">{$cart.qty}</div>
       </div>
-    </a>
+    </a> -->
   </nav>
   <!-- {#if loading}
     <Loader />
